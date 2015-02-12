@@ -1,7 +1,7 @@
 # Ubuntu Snappy Core
 
 ### Getting the Ubuntu kernel
-#### 3.16 (latest)
+#### 3.19 (latest)
 ```bash
 git://kernel.ubuntu.com/ubuntu/ubuntu-utopic.git
 ```
