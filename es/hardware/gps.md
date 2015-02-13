@@ -34,7 +34,7 @@ Este módulo es compatible con el autopiloto de APM, como el Erle-brain.
 - Altura: 140mm length
 - Longitud de cable: 200mm
 - Peso: 26g
-- Conector: DF13 (compass) 4 pin/ (GPS) 6 pin (APM compatible)
+- Conector: DF13 (compass) 4 pin (GPS) 6 pin (APM compatible)
 
 ### Cables
 
