@@ -23,6 +23,7 @@
        * [GPS](hardware/gps.md)
        * [Buzzer](hardware/buzzer.md)
        * [Dongles](hardware/dongles.md)
+   * [Hardware SetUp](hardware/setup/README.md)
 * [Software](software/software.md)
    * [Quick start](software/quick.md)
    * [Updating the sofware](software/update.md)
@@ -40,8 +41,6 @@
        * [Concepts](ros/ROS-concepts.md)
        * [Technical Overview](ros/rostechnicaloverview.md)
    * [Links Ardupilot](software/ardupilot/links.md)
-   * Miscellaneous
-       * [systemd](software/systemd.md)
 * [Vehicles](vehicles/README.md)
    * [Copter](vehicles/copter/README.md)
        * [Connections](vehicles/copter/connections.md)
@@ -76,6 +75,7 @@
        * [UART and Console](tutorials/autopilot_tutorial/uart_console.md)
        * [RC input and output](tutorials/autopilot_tutorial/rc.md)
        * [Storage and EEPROM management](tutorials/autopilot_tutorial/storage.md)
+   * [systemd](tutorials/systemd.md)
 * [Contact information](contact_information/README.md)
 * [Legal note](legal_note/README.md)
 
